@@ -1,16 +1,26 @@
 ## Hi there 👋
-
-<!--
-**AikaBe/AikaBe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi 👋, I'm Beisekeyeva Aizharkyn
+Backend Engineer (Go, PostgreSQL, Docker, RESTful APIs, Microservices)
+🔭 I’m currently studying on Aitu LeaderBoard-System
+Connect with me:
+username
+Languages and Tools:
+bash
+css3
+docker
+figma
+git
+go
+grafana
+html5
+java
+linux
+matlab
+mongodb
+nodejs
+postgresql
+postman
+rabbitMQ
+redis
+spring
+sqlite
