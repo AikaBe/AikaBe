@@ -1,12 +1,21 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Beisekeyeva Aizharkyn</h1>
 <h3 align="center">Backend Engineer (Go, PostgreSQL, Docker, RESTful APIs, Microservices)</h3>
 
-- 🔭 I’m currently studying on Aitu [LeaderBoard-System](https://github.com/AikaBe/LeaderBoard-System)
+- 🔭 I’m currently studying on Aitu
+- 🖥️ I had a practice at **MN Partners** where I worked on Java development.
+- 📚 I’m currently learning and improving my skills in Golang backend development.
+- [LeaderBoard-System](https://github.com/AikaBe/LeaderBoard-System)
+- [Ride-hail-System-](https://github.com/AikaBe/Ride-hail-System-)
+- [marketflow-System](https://github.com/AikaBe/marketflow-System)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aizharkyn beysekeyeva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aizharkyn beysekeyeva" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/aizharkyn-beysekeyeva" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aizharkyn beysekeyeva" height="30" width="40" />
+  </a>
+  <a href="mailto:aika.b.2005@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="aika.b.2005@gmail.com" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
