@@ -86,10 +86,3 @@
 - **Ride-hail-System**: Developed a scalable ride-hailing system backend with user and driver management, payment integration, and geolocation services.
 - **marketflow-System**: Contributed to the development of a multi-functional e-commerce platform backend, integrating various payment gateways, inventory management, and user analytics.
 
----
-
-This README now provides:
-- **Educational background** (Alem and Aitu).
-- **Professional experience** (practice at MN Partners with Java).
-- **Skills and tools** section.
-- **Project and contributions** with detailed information.
